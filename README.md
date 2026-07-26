@@ -43,8 +43,7 @@ updated because it parses media files. See [third-party notices](THIRD_PARTY_NOT
 
 ## Install
 
-For the published version, use the add-on code shown on its AnkiWeb page in
-Anki's **Tools → Add-ons → Get Add-ons…** dialog, then restart Anki.
+Install Audio Normalizer from [AnkiWeb](https://ankiweb.net/shared/info/1940848907).
 
 For a development build, follow **Development** below and install
 `dist/audio-normalizer.ankiaddon` with Anki's **Install from file…** action.
